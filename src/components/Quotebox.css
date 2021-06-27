@@ -1,0 +1,16 @@
+.quoteBox{
+    width:700px;
+    height:250px;
+    background-color: #FBEEC1;
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+    text-align: center;
+    padding-top: 70px;
+    margin:0 auto;
+    margin-top:110px;
+    border-radius: 20px;
+    /* margin-left: 20px; */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25);
+    font-family: 'Roboto', sans-serif;
+}
